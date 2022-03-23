@@ -1,0 +1,12 @@
+{
+	"document.ready": {
+		"scope": "",
+		"prefix": "doc",
+		"body": [
+			"&(document).ready(function() {",
+			"$0",
+			"});"
+		],
+		"description": "Сниппет для примера"
+	}
+}
